@@ -31,4 +31,4 @@ My GitHub Profile
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kumarhvsandeep@gmail.com)
 
 ---
-⭐️ From [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+⭐️ From [skumarhv1](https://github.com/skumarhv1)
