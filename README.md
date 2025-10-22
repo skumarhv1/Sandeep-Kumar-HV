@@ -20,7 +20,7 @@ My GitHub Profile
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandeep-Kumar-HV&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skumarhv1&show_icons=true&theme=radical)
 
 ### 🏆 Certifications
 - ✅ AWS Certified Developer - Associate (2023-2026)
